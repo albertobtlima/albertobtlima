@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil Alberto Lima 😁
+Estudante de Engenharia de Software 😁
 
  <div>
    <a href="https://github.com/albertobtlima">
